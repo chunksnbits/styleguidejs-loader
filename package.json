@@ -1,6 +1,6 @@
 {
   "name": "styleguidejs-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "./index.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "cheerio": "^0.20.0",
     "lodash": "^4.5.0",
     "postcss": "^5.0.16",
-    "styleguidejs": "^0.1.10"
+    "styleguidejs": "chunksnbits/styleguide.js"
   }
 }
